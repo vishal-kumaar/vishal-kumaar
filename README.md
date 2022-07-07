@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Vishal Yadav
+- 👋 Hi, I’m Vishal Kumar
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Data Structure and Algorithms
 - 💞️ I’m looking to collaborate on GitHub
