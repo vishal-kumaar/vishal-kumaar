@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Vishal Kumar
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Data Structure and Algorithms
+- 👀 I’m interested in Coding
+- 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on GitHub
-- 📫 You can contact me on Instagram _visshal_yadav
+- 📫 You can contact me on Instagram [Vishal Kumar](https://www.instagram.com/_vishal.kumar07/)
