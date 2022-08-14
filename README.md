@@ -2,4 +2,4 @@
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on GitHub
-- 📫 You can contact me on Instagram [Vishal Kumar](https://www.instagram.com/_vishal.kumar07/)
+- 📫 You can contact me on Instagram [_vishal.kumar07](https://www.instagram.com/_vishal.kumar07/)
