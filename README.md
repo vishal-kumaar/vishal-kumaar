@@ -43,14 +43,14 @@
 
 ## ❤ Views and Followers
 <p>
-    <a href="https://github.com/vishalkumar08376/github-profile-views-counter">
-        <img src="https://komarev.com/ghpvc/?username=vishalkumar08376">
+    <a href="https://github.com/vishal-kumaar/github-profile-views-counter">
+        <img src="https://komarev.com/ghpvc/?username=vishal-kumaar">
     </a>
-    <a href="https://github.com/vishalkumar08376?tab=followers"><img src="https://img.shields.io/github/followers/vishalkumar08376?label=Followers&style=social" alt="GitHub Badge"></a>
+    <a href="https://github.com/vishal-kumaar?tab=followers"><img src="https://img.shields.io/github/followers/vishal-kumaar?label=Followers&style=social" alt="GitHub Badge"></a>
 </p>
 
 <br />
 
-<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=vishalkumar08376&show_icons=true&locale=en" alt="vishalkumar08376" /></p>
+<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=vishal-kumaar&show_icons=true&locale=en" alt="vishal-kumaar" /></p>
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vishalkumar08376&" alt="vishalkumar08376" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vishal-kumaar&" alt="vishal-kumaar" /></p>
