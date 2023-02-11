@@ -27,7 +27,7 @@
     <a href="https://mongodb.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/mongodb.png"/> </a>
 </p>
 
-<p ><img src="https://github-readme-stats.vercel.app/api/top-langs?username=vishalkumar08376&show_icons=true&locale=en&layout=compact" alt="vishalkumar08376" /></p>
+<p ><img src="https://github-readme-stats.vercel.app/api/top-langs?username=vishal-kumaar&show_icons=true&locale=en&layout=compact" alt="vishal-kumaar" /></p>
 
 
 ## Connect with me:
