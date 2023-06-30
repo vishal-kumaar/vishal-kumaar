@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning **Web Development**
 - 💞️ I’m looking to collaborate on **projects**, **startup**:)
 - 📫 I'm looking to collaborate on **Github**
-- 📝 Read my articles on [Hashnode](https://hashnode.com/@vishaalkumar "Click Me")
+- 📝 Read my articles on [Hashnode](https://hashnode.com/@vishal-kumar "Click Me")
 
 ## 🚀 Languages and Tools:
 
